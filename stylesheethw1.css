@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+  background-color:#00778B;
+}
+
+h1 {
+  color: #FFC72C;
+  text-align: center;
+  font-family: georgia, times;
+  font-size: 35px;
+  border:solid 7px #0C3157;
+  padding: 20px 0;
+  width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+p {
+  font-family: arial, times;
+  font-size: 20px;
+  color: #FDFEFF;
+  text-align: center;
+}
+.quoted {
+  font-style: italic; font-size:12pt;text-indent:1in }
+a:hover {
+  color : #BCC0CA}
+a {
+  font-family: arial, times;
+  font-size: 25px;
+  color: #FDFEFF;
+}
